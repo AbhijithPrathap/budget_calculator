@@ -1,0 +1,63 @@
+body{
+    background-size: 100%;
+    background-image: url(https://www.southgateco.com/wp-content/uploads/2021/03/coin-stacks-with-houses-on-top.jpg);
+    
+}
+/* index page */
+
+#home{
+    background-color: rgba(0, 0, 0, 0.455);
+    margin-top: 10%;
+    border: 5px rgba(128, 132, 133, 0.625) ridge;
+    border-radius: 50px;
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+   
+}
+p{
+    text-align: center;
+}
+#img1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+/* register page */
+    
+#register{
+    background-color:rgba(0, 0, 0, 0.455);
+    margin-top: 10%;
+    border: 5px rgba(128, 132, 133, 0.625) ridge;
+    border-radius: 50px;
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+   
+}
+
+#img2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+/* home page */
+
+#logo{background-color: rgba(0, 0, 0, 0.316);
+    border: 2px inset rgba(244, 242, 242, 0.808);
+    margin-top: 40px;
+    width: 550px;
+    height: 230px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+/* navbar */
+.navbar{
+    background: rgba(0, 0, 0, 0.2);;
+    height: 80px;
+    
+}
